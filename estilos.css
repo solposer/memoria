@@ -1,0 +1,16 @@
+#grid{
+    width:100%;
+    display:flex;
+    flex-wrap: wrap;
+    
+}
+#grid img{
+    height:170px;
+    width:170px;
+    margin:3px;
+    object-fit: cover;
+}
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
